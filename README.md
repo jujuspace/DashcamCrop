@@ -3,7 +3,7 @@
 A tool for automatically cropping dashcam footage by tracking corner points.
 
 ## Demo
-![DashcamCrop Demo](assets/demo.gif)
+![DashcamCrop Demo](demo.gif)
 
 ## Features
 - Automatic corner point tracking using template matching
