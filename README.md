@@ -1,4 +1,4 @@
-# DashcamCrop
+# TrackCrop
 
 A tool for automatically cropping dashcam footage by tracking corner points.
 
