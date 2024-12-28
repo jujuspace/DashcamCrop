@@ -22,8 +22,8 @@ A tool for automatically cropping dashcam footage by tracking corner points.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/jujuspace/DashcamCrop.git
-cd DashcamCrop
+git clone https://github.com/jujuspace/TrackCrop.git
+cd TrackCrop
 ```
 
 2. Install dependencies:
